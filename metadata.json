@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Sarkar City 3D",
+  "description": "A 3D political satire and city simulation game set in a bustling South Asian capital precinct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
